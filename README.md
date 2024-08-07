@@ -13,11 +13,11 @@ This repository contains a series of small programs developed using Java Servlet
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/ep-programs-java-servlet-jsp.git
-   cd ep-programs-java-servlet-jsp
+   git clone https://github.com/Priyank911/Enterprise-Programming.git
+   cd Enterprise-Programming
    ```
 2. **Database Setup:**
-   - Create a database named `ep_programs`.
+   - Create a database named `Classicmodels`.
    - Run the SQL scripts in the `/sql` folder to set up tables.
 
 3. **Configure the project:**
